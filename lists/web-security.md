@@ -1,38 +1,25 @@
-\# Web Güvenliği Araçları
+# Web Security Tools
 
+- **OWASP ZAP** — Open-source DAST tool. Passive/active scanning, proxy, and automation.  
+  Repo: https://github.com/zaproxy/zaproxy
 
+- **sqlmap** — Automates the detection and exploitation of SQL Injection vulnerabilities.  
+  Repo: https://github.com/sqlmapproject/sqlmap
 
-\- \*\*OWASP ZAP\*\* — Açık kaynak DAST. Pasif/aktif tarama, proxy, otomasyon.
+- **ffuf** — Fast directory, file, and endpoint fuzzing using wordlists.  
+  Repo: https://github.com/ffuf/ffuf
 
-&nbsp; Repo: https://github.com/zaproxy/zaproxy
+- **Nikto** — Scans web servers for common misconfigurations and vulnerabilities.  
+  Repo: https://github.com/sullo/nikto
 
-\- \*\*sqlmap\*\* — SQL Injection tespiti ve sömürüsünü otomatikleştirir.
+- **Nuclei** — Template-based target and vulnerability scanning at high speed.  
+  Repo: https://github.com/projectdiscovery/nuclei
 
-&nbsp; Repo: https://github.com/sqlmapproject/sqlmap
+- **httpx** — HTTP probing for status codes, titles, TLS info, and technology fingerprinting.  
+  Repo: https://github.com/projectdiscovery/httpx
 
-\- \*\*ffuf\*\* — Hızlı dizin/dosya/endpoint fuzzing (wordlist ile).
+- **WhatWeb** — Technology fingerprinting using plugin-based detection.  
+  Repo: https://github.com/urbanadventurer/WhatWeb
 
-&nbsp; Repo: https://github.com/ffuf/ffuf
-
-\- \*\*nikto\*\* — Web sunucularında yaygın yanlış yapılandırma/zafiyet taraması.
-
-&nbsp; Repo: https://github.com/sullo/nikto
-
-\- \*\*nuclei\*\* — Şablon tabanlı hedef/zafiyet tarama (çok hızlı).
-
-&nbsp; Repo: https://github.com/projectdiscovery/nuclei
-
-\- \*\*httpx\*\* — HTTP keşfi (status, title, TLS, teknoloji parmak izi).
-
-&nbsp; Repo: https://github.com/projectdiscovery/httpx
-
-\- \*\*WhatWeb\*\* — Teknoloji parmak izi (plugin tabanlı).
-
-&nbsp; Repo: https://github.com/urbanadventurer/WhatWeb
-
-\- \*\*Burp Suite CE\*\* — Proxy \& manuel test platformu (indirme sayfası).
-
-&nbsp; Site: https://portswigger.net/burp/communitydownload
-
-
-
+- **Burp Suite CE** — Proxy and manual web testing platform (Community Edition download page).  
+  Site: https://portswigger.net/burp/communitydownload
