@@ -22,9 +22,7 @@ Amaç: kendime ve topluluğa kategorize bir referans oluşturmak.
 
 \## Uyarı
 
-Bu depo yalnızca \*\*eğitim ve referans\*\* amaçlıdır.  
+Bu depo yalnızca \*\*eğitim ve referans\*\* amaçlıdır.
 
 Gerçek sistemlerde izinsiz test yapmak \*\*yasal suçtur\*\*.
-
-
 
