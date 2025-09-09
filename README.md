@@ -1,14 +1,14 @@
-# Cybersecurity Toolkit (TR)
+# Cybersecurity Toolkit
 
-Dünyada yaygın kullanılan siber güvenlik araçlarının **Türkçe kısa açıklamaları** ve **resmi bağlantıları**.
+A curated collection of widely used cybersecurity tools with **clear descriptions** and **official links**.
 
-Amaç: kendime ve topluluğa kategorize bir referans oluşturmak.
+The goal of this repository is to create a categorized reference for personal use and the community.
 
-## Kategoriler
+## Categories
 - [Web Security](lists/web-security.md)
 - [Network Scanning](lists/network-scanning.md)
 - [Forensics & IR](lists/forensics-ir.md)
 
-## Uyarı
-Bu depo yalnızca **eğitim ve referans** amaçlıdır.  
-Gerçek sistemlerde izinsiz test yapmak **yasal suçtur**.
+## Disclaimer
+This repository is for **educational and reference purposes only**.  
+Performing tests on real systems without permission is **illegal**.
