@@ -1,52 +1,25 @@
-\# Ağ Tarama Araçları
+# Network Scanning Tools
 
+This list includes tools for network scanning and discovery.  
+They are used to identify devices, open ports, and services on a network.
 
+- **Nmap** — Network discovery, service/version detection, and NSE scripting engine.  
+  Repo: https://github.com/nmap/nmap
 
-Bu liste, ağ tarama ve ağ keşfi araçlarını içerir.  
+- **Masscan** — Extremely fast port scanner for large-scale IP ranges across the internet.  
+  Repo: https://github.com/robertdavidgraham/masscan
 
-Ağ üzerindeki cihazları, açık portları ve servisleri tespit etmek için kullanılır.
+- **ZMap** — Internet-wide single-packet scans for very large IP blocks.  
+  Repo: https://github.com/zmap/zmap
 
+- **RustScan** — Fast pre-scanner that works with Nmap, built with Rust.  
+  Repo: https://github.com/RustScan/RustScan
 
+- **arp-scan** — ARP-based discovery of devices on a local network.  
+  Repo: https://github.com/royhills/arp-scan
 
-\- \*\*Nmap\*\* — Ağ keşfi, servis/versiyon tespiti ve NSE script motoru.
+- **fping** — Optimized tool for pinging multiple hosts simultaneously.  
+  Repo: https://github.com/schweikert/fping
 
-&nbsp; Repo: https://github.com/nmap/nmap
-
-
-
-\- \*\*Masscan\*\* — Çok hızlı port taraması (internet çapında geniş IP aralıkları).
-
-&nbsp; Repo: https://github.com/robertdavidgraham/masscan
-
-
-
-\- \*\*ZMap\*\* — İnternet ölçeğinde tek paketlik taramalar (çok büyük IP blokları için).
-
-&nbsp; Repo: https://github.com/zmap/zmap
-
-
-
-\- \*\*RustScan\*\* — Nmap için hızlı ön tarama (rust diliyle yazılmıştır).
-
-&nbsp; Repo: https://github.com/RustScan/RustScan
-
-
-
-\- \*\*arp-scan\*\* — Yerel ağda ARP tabanlı cihaz keşfi.
-
-&nbsp; Repo: https://github.com/royhills/arp-scan
-
-
-
-\- \*\*fping\*\* — Çok sayıda hosta ping atmak için optimize edilmiş araç.
-
-&nbsp; Repo: https://github.com/schweikert/fping
-
-
-
-\- \*\*netcat (nc)\*\* — Port dinleme, bağlantı kurma ve trafik yönlendirme.
-
-&nbsp; Repo: https://github.com/diegocr/netcat
-
-
-
+- **netcat (nc)** — Tool for port listening, making connections, and traffic redirection.  
+  Repo: https://github.com/diegocr/netcat
